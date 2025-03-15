@@ -1,0 +1,16 @@
+*{
+    border: 0;
+    padding: 0;
+}
+body{
+    background-color: gray;
+}
+.gameboard{
+    border-radius: 15px;
+    background: red;
+    width: 200px;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
